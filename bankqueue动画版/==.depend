@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1434870753 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"graphics.h"
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434168187 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\graphics.h
+	"ege.h"
+
+1366648572 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\ege.h
+	"windows.h"
+	<cstdio>
+
+1434371215 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\text.cpp
+	<stdio.h>
+	<stdlib.h>
+	"ege.h"
+	"graphics.h"
+
+1434379120 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\mouse_01.cpp
+	<stdio.h>
+	<stdlib.h>
+	"ege.h"
+	"graphics.h"
+
+1434868167 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434616648 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1434698112 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\control.h
+
+1434800787 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\input.h
+
+1434801160 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\output.h
+
+1434868264 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\queueserve.h
+
+1434817578 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434868182 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434858689 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434784416 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\vip.h
+	<stdio.h>
+
+1434800685 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\==\vip.c
+	"vip.h"
+

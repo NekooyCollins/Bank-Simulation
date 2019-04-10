@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="==" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/==" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-mwindows" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/LIB/mingw4.7/libgraphics.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/libgdi32.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/libimm32.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/libmsimg32.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/libole32.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/liboleaut32.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/libwinmm.a" />
+					<Add library="../../../../../Downloads/CodeBlocks/TDM-GCC/lib/libuuid.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/==" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="control.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="control.h" />
+		<Unit filename="ege.h" />
+		<Unit filename="graphics.h" />
+		<Unit filename="head.h" />
+		<Unit filename="input.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="input.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="output.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="output.h" />
+		<Unit filename="queueServe.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="queueServe.h" />
+		<Unit filename="vip.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="vip.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

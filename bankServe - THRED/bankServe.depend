@@ -1,0 +1,251 @@
+# depslib dependency file v1.0
+1433507577 source:d:\users\lenovo\desktop\bankserve\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507497 d:\users\lenovo\desktop\bankserve\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1433507716 d:\users\lenovo\desktop\bankserve\control.h
+
+1433507468 d:\users\lenovo\desktop\bankserve\input.h
+
+1433509377 d:\users\lenovo\desktop\bankserve\output.h
+
+1433507716 d:\users\lenovo\desktop\bankserve\queueserve.h
+
+1433507716 d:\users\lenovo\desktop\bankserve\vip.h
+	<stdio.h>
+
+1433507433 source:d:\users\lenovo\desktop\bankserve\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507715 source:d:\users\lenovo\desktop\bankserve\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507670 source:d:\users\lenovo\desktop\bankserve\vip.c
+	"vip.h"
+
+1433509407 source:d:\users\lenovo\desktop\bankserve\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433508805 source:d:\users\lenovo\desktop\bankserve\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433932141 source:d:\users\lenovo\desktop\bankserve - thred\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507497 d:\users\lenovo\desktop\bankserve - thred\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1433932169 d:\users\lenovo\desktop\bankserve - thred\control.h
+
+1433507468 d:\users\lenovo\desktop\bankserve - thred\input.h
+
+1433771195 d:\users\lenovo\desktop\bankserve - thred\output.h
+
+1433774067 d:\users\lenovo\desktop\bankserve - thred\queueserve.h
+
+1433507716 d:\users\lenovo\desktop\bankserve - thred\vip.h
+	<stdio.h>
+
+1433932141 source:d:\users\lenovo\desktop\bankserve - thred\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434282664 source:d:\users\lenovo\desktop\bankserve - thred\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433933471 source:d:\users\lenovo\desktop\bankserve - thred\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433933359 source:d:\users\lenovo\desktop\bankserve - thred\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507670 source:d:\users\lenovo\desktop\bankserve - thred\vip.c
+	"vip.h"
+
+1433932141 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507497 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1433932169 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\control.h
+
+1433507468 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\input.h
+
+1433771195 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\output.h
+
+1433774067 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\queueserve.h
+
+1433507716 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\vip.h
+	<stdio.h>
+
+1433932141 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434282664 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433933471 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433933359 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1433507670 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bankserve - thred\vip.c
+	"vip.h"
+

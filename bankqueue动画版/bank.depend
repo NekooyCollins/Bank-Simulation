@@ -1,0 +1,320 @@
+# depslib dependency file v1.0
+1434281893 source:d:\users\lenovo\desktop\bank-cartoon\control.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<graphics.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434616647 d:\users\lenovo\desktop\bank-cartoon\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1434698111 d:\users\lenovo\desktop\bank-cartoon\control.h
+
+1434282084 d:\users\lenovo\desktop\bank-cartoon\input.h
+
+1434282120 d:\users\lenovo\desktop\bank-cartoon\output.h
+
+1434471318 d:\users\lenovo\desktop\bank-cartoon\queueserve.h
+
+1434282247 d:\users\lenovo\desktop\bank-cartoon\vip.h
+	<stdio.h>
+
+1434281994 source:d:\users\lenovo\desktop\bank-cartoon\input.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	<graphics.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434698454 source:d:\users\lenovo\desktop\bank-cartoon\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"graphics.h"
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434282150 source:d:\users\lenovo\desktop\bank-cartoon\queueserve.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434282214 source:d:\users\lenovo\desktop\bank-cartoon\vip.cpp
+	"vip.h"
+
+1434282326 source:d:\users\lenovo\desktop\bank-cartoon\output.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434698111 source:d:\users\lenovo\desktop\bank-cartoon\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434440017 source:d:\users\lenovo\desktop\bank-cartoon\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434375316 source:d:\users\lenovo\desktop\bank-cartoon\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434471315 source:d:\users\lenovo\desktop\bank-cartoon\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434294837 source:d:\users\lenovo\desktop\bank-cartoon\vip.c
+	"vip.h"
+
+1434349209 source:d:\users\lenovo\desktop\bank-cartoon\drawpic.c
+
+1434349209 d:\users\lenovo\desktop\bank-cartoon\drawpic.h
+
+1366648555 d:\users\lenovo\desktop\bank-cartoon\graphics.h
+	"ege.h"
+
+1366648571 d:\users\lenovo\desktop\bank-cartoon\ege.h
+	"windows.h"
+	<cstdio>
+
+1434698112 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434616648 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1434698112 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\control.h
+
+1434282086 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\input.h
+
+1434282122 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\output.h
+
+1434471320 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\queueserve.h
+
+1434282248 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\vip.h
+	<stdio.h>
+
+1434440018 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434698456 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"graphics.h"
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1366648556 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\graphics.h
+	"ege.h"
+
+1366648572 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\ege.h
+	"windows.h"
+	<cstdio>
+
+1434375318 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434471316 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434294838 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon\vip.c
+	"vip.h"
+
+1434698112 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\control.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434616648 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\head.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1434698112 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\control.h
+
+1434282086 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\input.h
+
+1434282122 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\output.h
+
+1434471320 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\queueserve.h
+
+1434282248 c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\vip.h
+	<stdio.h>
+
+1434440018 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\input.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434375318 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\output.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434471316 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\queueserve.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<windows.h>
+	"head.h"
+	"control.h"
+	"input.h"
+	"output.h"
+	"queueServe.h"
+	"vip.h"
+
+1434294838 source:c:\users\sizenr huang\onedrive\documents\c语言代码\大作业\bank-cartoon - 副本 (2)\vip.c
+	"vip.h"
+

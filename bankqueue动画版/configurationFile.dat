@@ -1,0 +1,6 @@
+[Minsec] 5
+[Maxsec] 10
+[MinRestSec] 6
+[MaxRestSec] 12
+[VIPSERVElen] 4
+[closebank] 50
